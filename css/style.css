@@ -7,3 +7,16 @@ header {
 .blue-sect{
     background-color: #00008b;
 }
+
+.column-pink{
+    background-color: #ffc0cb;
+    width: 30%;
+
+}
+
+.column-blue {
+    background-color: #1e90ff;
+    width: 70%;
+    
+
+}

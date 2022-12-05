@@ -66,7 +66,7 @@ section{
 	background-color:#7efed3;
 	padding-top: 10px;
 	padding-bottom: 10px;
-	flex
+	justify-content: space-between;
 }
 
 .scritta{

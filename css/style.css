@@ -20,10 +20,28 @@ header {
     
 }
 
+
 .back-grey{
     background-color: #d3d3d3;
 }
 
 .back-black{
     background-color: #23272a;
+}
+
+.back-green{
+    background-color: #228b22;
+}
+
+.column-water{
+    background-color: #20b2aa;
+    border: 1px dashed white;
+    width: calc(100% / 4);
+    
+}
+
+.column-orange {
+    background-color: #f08080;
+    border: 1px dashed black;
+    width: calc(100% / 3);
 }

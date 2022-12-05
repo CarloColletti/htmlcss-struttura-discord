@@ -1,9 +1,17 @@
 /* Utils */
+.container-header,
+.default-conteiner,
+.big-conteiner,
+.container-footer{
+	display: flex;
+}
+
+
+
 .container-header{
 	max-width: 80%;
 	margin: 0 auto;
 	background-color: #daa520;
-	display: flex;
 }
 
 .container-header>* { 
@@ -36,7 +44,6 @@ section{
 	height: 200px;
 	margin: auto;
 	border: 1px dashed black;
-	display: flex;
 }
 
 .big-conteiner {
@@ -45,6 +52,25 @@ section{
 	margin: auto;
 	border: 1px dashed black;
 	display: flex;
-	background-color: #228b22;
 }
 
+
+.divisore{
+	padding-top: 5px;
+	border-bottom: 1px solid white;
+}
+
+.container-footer {
+	max-width: 80%;
+	margin: 0 auto;
+	background-color:#7efed3;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	flex
+}
+
+.scritta{
+	border: 1px dashed black;
+	background-color: #ffb6c1;
+
+}

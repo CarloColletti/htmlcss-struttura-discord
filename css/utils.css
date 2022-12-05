@@ -18,3 +18,23 @@
 
 }
 
+section{
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.pink-conteiner{
+	max-width: 60%;
+	height: 150px;
+	margin: 0 auto;
+	border: 1px dashed black;
+	background-color: #ee82ee;
+}
+
+.default-conteiner {
+	max-width: 80%;
+	height: 150px;
+	margin: 0 auto;
+	border: 1px dashed black;
+	
+}
